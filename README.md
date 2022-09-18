@@ -26,7 +26,7 @@ Greetings, I am a coder from India.I am passionate about exploring new stuffs an
 -⚡:I am a Naruto Lover At heart. :-)
 
 
-mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-iqbal-64a0b31b7/)
+How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-iqbal-64a0b31b7/)
 
 ---
 
@@ -39,3 +39,9 @@ mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?s
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="Pycharm" **alt="Pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="python" width="40" height="40"/>&nbsp;
   </div>
+
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IshanIqbal1401&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanIqbal1401&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
