@@ -24,7 +24,9 @@ Greetings, I am a coder from India.I am passionate about exploring new stuffs an
 -⚡:I am learning problem solving on GFG and love to learn about new tech.
 -⚡:When it comes New Cpus i am very much curious.
 -⚡:I am a Naruto Lover At heart. :-)
-mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-iqbal-64a0b31b7/)
+
+
+mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-iqbal-64a0b31b7/)
 
 ---
 
