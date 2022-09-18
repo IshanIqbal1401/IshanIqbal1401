@@ -18,13 +18,13 @@
 </div>
 </div>
 ### :man_technologist: About Me :
-<div>
-Greetings, I am a coder from India.I am passionate about exploring new stuffs and working towards making my self better.
-#-🌱: Exploring Android Development 
-#-⚡:I am learning problem solving on GFG and love to learn about new tech.
-#-⚡:When it comes New Cpus i am very much curious.
-#-⚡:I am a Naruto Lover At heart. :-)
-</div>
+
+Greetings, I am a coder from India.I am passionate about exploring new stuffs and working towards making my self better.<br>
+-🌱: Exploring Android Development <br>
+-⚡:I am learning problem solving on GFG and love to learn about new tech.<br>
+-⚡:When it comes New Cpus i am very much curious.<br>
+-⚡:I am a Naruto Lover At heart. :-)<br>
+
 
 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-iqbal-64a0b31b7/)
 
